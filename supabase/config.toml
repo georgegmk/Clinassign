@@ -1,0 +1,8 @@
+
+project_id = "acmihgikuqzekgewttyf"
+
+[functions.attendance]
+verify_jwt = false
+
+[functions.attendance-reports]
+verify_jwt = false
